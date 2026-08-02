@@ -1,0 +1,31 @@
+Text,Sentiment
+"I absolutely love this dress! The fabric is high quality and it fits perfectly.",Positive
+"Great shoes! Very comfortable for walking all day long.",Positive
+"The customer service was wonderful. They helped me exchange my order quickly.",Positive
+"Excellent quality and fast shipping. Highly recommend this brand.",Positive
+"Super happy with my purchase. The packaging was beautiful and neat.",Positive
+"Good product, works as advertised. Nothing special but gets the job done.",Positive
+"The colors are vibrant and exactly as shown in the pictures.",Positive
+"This bag is very spacious and looks stylish. Perfect for daily office use.",Positive
+"Amazing value for the price. I will definitely buy again.",Positive
+"The shirt fits well, and the material is soft and breathable.",Positive
+"It is okay. Not the best quality but decent for the price.",Neutral
+"Average product. The shipping took longer than expected.",Neutral
+"The size is correct, but the color is slightly different in person.",Neutral
+"Decent quality, but I have seen better options available.",Neutral
+"It is fine, but nothing outstanding.",Neutral
+"The packaging was a bit damaged when it arrived, but the product was okay.",Neutral
+"It works, but the setup instructions were somewhat confusing.",Neutral
+"Average customer experience, not good but not bad either.",Neutral
+"It is standard clothing, normal quality and normal fit.",Neutral
+"The product arrived on time, but it did not meet all my expectations.",Neutral
+"Terrible product! The material is extremely cheap and it ripped after one wash.",Negative
+"I am very disappointed. The sizing is completely incorrect and too small.",Negative
+"Avoid this! The customer service was rude when I requested a refund.",Negative
+"The shoes are extremely uncomfortable and hurt my feet after ten minutes.",Negative
+"Horrible quality. The zipper on the bag broke on the first day of use.",Negative
+"The package arrived very late, and the item inside was damaged.",Negative
+"Very poor experience. The item looks nothing like the picture.",Negative
+"Waste of money. I do not recommend this to anyone.",Negative
+"The customer support was unresponsive and did not help with my order.",Negative
+"Bad fit and scratchy fabric. I will be returning this immediately.",Negative
