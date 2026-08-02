@@ -29,8 +29,15 @@ jobs:
         # In production we can run flake8 or black here.
         echo "Running linter..."
 
+    - name: Install OpenCV system dependencies
+      run: |
+        sudo apt-get update
+        sudo apt-get install -y libgl1-mesa-glx libglib2.0-0
+
     - name: Run Tests
       env:
         X_API_KEY: "smart-retail-secret-key"
+        PYTHONPATH: "."
       run: |
-        pytest tests/
+        python -m pytest tests/
+
